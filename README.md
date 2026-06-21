@@ -27,7 +27,7 @@ Survival analysis solves this directly:
 - **Multivariate**: Cox Proportional Hazards regression to estimate adjusted hazard ratios
 - **Tools**: R (survival, survminer), SPSS (data cleaning, recoding, event variable construction), LaTeX (reporting)
 
-Full methodological detail and diagnostics are in the [dissertation paper](#) (linked).
+Full methodological detail and diagnostics are in the [dissertation paper](Dissertation.pdf).
 
 ## Key Result
 
